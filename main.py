@@ -1,6 +1,7 @@
 import numpy as np
 
-#convert CSV to NumPy array.
+#convert CSV to NumPy array.]
+tp = np.genformtxt("")
 
 
 #Slice the required array elements.
